@@ -66,23 +66,4 @@ function bill(){
 
 }
 
-function billing(car){
-    for(let i = 0; i < services.length; i++){
-        if(services[i] == 'BS01'){
-            console.log(hatchback.bf01)
-        }
-        else if(services[i] == 'BS01'){
-
-        }
-        else if(services[i] == 'BS01'){
-            
-        }
-        else if(services[i] == 'BS01'){
-            
-        }
-        else if(services[i] == 'BS01'){
-            
-        }
-    }
-}
 
